@@ -11,7 +11,7 @@ const featuresdata: featuresdata[] = [
     {
         imgSrc: '/images/Features/featureOne.svg',
         heading: 'Send and receive Money',
-        subheading: 'Transfer any volume of payment using SparsPay with CHEAPER fees',
+        subheading: 'Transfer to any countries using SparsPay with CHEAPER fees',
     },
     {
         imgSrc: '/images/Features/featureTwo.svg',
